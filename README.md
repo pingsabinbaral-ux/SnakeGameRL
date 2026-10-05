@@ -14,6 +14,9 @@ The agent learns to navigate the grid, avoid obstacles and self-collisions, and 
 - **Live HUD Display:** Real-time metrics showing game count, current score, high score, and current epsilon value.
 
 ---
+<p align="center">
+  <img src="dqn_architecture.png" alt="Deep Q-Network architecture: 13 inputs, two hidden layers of 256 neurons with ReLU, 3 Q-value outputs" width="100%">
+</p>
 
 ## 🧠 State & Action Space
 
